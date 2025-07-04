@@ -1,0 +1,6 @@
+type_id,type_name
+T1,Purchase
+T2,Refund
+T3,Withdrawal
+T4,Transfer
+T5,Subscription

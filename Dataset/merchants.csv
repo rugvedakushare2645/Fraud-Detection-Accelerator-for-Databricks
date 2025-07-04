@@ -1,0 +1,201 @@
+merchant_id,merchant_name,category
+M00001,Sanchez LLC,Travel
+M00002,Davis and Sons,Travel
+M00003,Moore PLC,Travel
+M00004,Powers-Figueroa,Travel
+M00005,Hall Ltd,Electronics
+M00006,"Murphy, Hines and Hawkins",Gaming
+M00007,"Newton, Holden and Stevens",Travel
+M00008,Harvey-Moore,Gaming
+M00009,Hernandez LLC,Food
+M00010,Campbell-Allen,Travel
+M00011,"Proctor, Travis and Smith",Retail
+M00012,"King, Sanchez and Diaz",Fashion
+M00013,Valdez-Hunter,Gaming
+M00014,"Taylor, Sullivan and Medina",Food
+M00015,"Merritt, Park and Salazar",Retail
+M00016,"Johnson, Lane and Mitchell",Food
+M00017,"Hunter, Miller and Trevino",Fashion
+M00018,Hancock Group,Electronics
+M00019,"Jackson, Hardin and Weaver",Travel
+M00020,Williams-Tyler,Travel
+M00021,English-West,Travel
+M00022,Luna-Little,Gaming
+M00023,Martinez Group,Gaming
+M00024,Friedman-Mendoza,Travel
+M00025,Bowman PLC,Food
+M00026,"Rosales, Greene and Mcconnell",Food
+M00027,"Jones, Rivera and Stone",Food
+M00028,Martinez and Sons,Travel
+M00029,Williams and Sons,Retail
+M00030,Lopez-Martin,Food
+M00031,"Allen, Holloway and Gibbs",Retail
+M00032,Thornton-Hobbs,Food
+M00033,Cox PLC,Fashion
+M00034,"Martinez, Anderson and Meyer",Fashion
+M00035,Stanley LLC,Electronics
+M00036,Allen Group,Travel
+M00037,Wilson Ltd,Food
+M00038,"Haynes, Mccoy and King",Retail
+M00039,Wilson-Austin,Fashion
+M00040,"Thompson, Rodriguez and Sosa",Gaming
+M00041,Lewis-Martinez,Electronics
+M00042,Banks-Stout,Retail
+M00043,Johnson-Hoover,Retail
+M00044,Huffman-Mcclure,Travel
+M00045,Archer-Garcia,Food
+M00046,Mccarthy-Fuentes,Retail
+M00047,"Pena, Burton and Wall",Travel
+M00048,Jones Inc,Fashion
+M00049,Montoya-Knox,Electronics
+M00050,Payne-Sanchez,Retail
+M00051,Fisher LLC,Food
+M00052,Nichols-Villarreal,Retail
+M00053,"Lang, Wilson and Caldwell",Gaming
+M00054,"Dean, Chapman and Ward",Food
+M00055,"Mitchell, Ramsey and Gutierrez",Gaming
+M00056,Poole and Sons,Fashion
+M00057,"Bishop, Mccann and Dickerson",Travel
+M00058,Beck Inc,Food
+M00059,"Gallegos, Simpson and Mckinney",Food
+M00060,Bailey Ltd,Gaming
+M00061,Cordova-Patterson,Electronics
+M00062,"Edwards, Haynes and Brandt",Electronics
+M00063,Little Group,Travel
+M00064,"Clarke, Parks and Hill",Food
+M00065,Brown and Sons,Food
+M00066,Carter-Phillips,Travel
+M00067,"Hughes, Lopez and Roberts",Travel
+M00068,Hopkins-Garcia,Electronics
+M00069,"Peters, Davis and Williams",Retail
+M00070,Curry LLC,Gaming
+M00071,Martin-Johnson,Travel
+M00072,Irwin Inc,Electronics
+M00073,Mendez and Sons,Food
+M00074,"Harris, Wood and Gonzales",Gaming
+M00075,Ware LLC,Food
+M00076,Kelly-Reid,Food
+M00077,"Smith, Lindsey and Bowen",Gaming
+M00078,"Santos, Wright and Meyer",Food
+M00079,"Brown, Gomez and Porter",Travel
+M00080,Adams-Williams,Travel
+M00081,"Moran, Pacheco and Cole",Travel
+M00082,Prince-Thompson,Travel
+M00083,"Gross, Alvarez and Mills",Travel
+M00084,Phillips LLC,Travel
+M00085,"Vaughn, Cherry and Scott",Travel
+M00086,Cordova Group,Fashion
+M00087,Jackson Group,Gaming
+M00088,Wilson-Pratt,Food
+M00089,Green-Christensen,Food
+M00090,"Torres, Bennett and Gonzales",Fashion
+M00091,Lopez Group,Fashion
+M00092,Brady-Patterson,Fashion
+M00093,"Young, Cox and Frazier",Gaming
+M00094,Moore Ltd,Retail
+M00095,Blackwell-Hernandez,Electronics
+M00096,Miller LLC,Retail
+M00097,"Thomas, Morales and Weber",Fashion
+M00098,"Rose, Wagner and Watts",Fashion
+M00099,"Gilbert, Lara and Garcia",Fashion
+M00100,Barber Inc,Retail
+M00101,Walker-King,Gaming
+M00102,Freeman-Williams,Electronics
+M00103,Carter Inc,Electronics
+M00104,"Scott, Romero and Ruiz",Retail
+M00105,"Lam, Fleming and Bowman",Electronics
+M00106,"Savage, Mooney and Mann",Retail
+M00107,Brown-Brown,Gaming
+M00108,Alexander PLC,Electronics
+M00109,"Graves, West and Mcconnell",Retail
+M00110,"Mccarthy, Hansen and George",Gaming
+M00111,Palmer Group,Electronics
+M00112,"Thompson, Wilson and Cantrell",Travel
+M00113,Haynes-Freeman,Food
+M00114,Anderson-Allen,Food
+M00115,Stewart Group,Electronics
+M00116,Gardner-Thomas,Fashion
+M00117,"Snyder, Carey and Santiago",Travel
+M00118,Edwards Group,Fashion
+M00119,Gonzalez-Harmon,Gaming
+M00120,"Fields, Frazier and Wagner",Gaming
+M00121,Martin PLC,Travel
+M00122,"Mendoza, Barnes and Davis",Electronics
+M00123,Mueller and Sons,Gaming
+M00124,Russo PLC,Fashion
+M00125,"Lloyd, Cook and Harper",Retail
+M00126,Williams LLC,Travel
+M00127,Mendez-Taylor,Food
+M00128,Davis Inc,Fashion
+M00129,Johnson Group,Food
+M00130,Stevenson-Freeman,Electronics
+M00131,"Cook, Bell and Williams",Food
+M00132,Benson-Lam,Food
+M00133,Lane PLC,Food
+M00134,Rogers-Lambert,Electronics
+M00135,Sandoval-Ramos,Electronics
+M00136,Scott and Sons,Electronics
+M00137,"Martinez, Perez and Burke",Gaming
+M00138,Stevens-Johnson,Food
+M00139,Sexton-Rojas,Gaming
+M00140,Gray Ltd,Electronics
+M00141,"Freeman, Parsons and Williamson",Gaming
+M00142,Gomez LLC,Electronics
+M00143,Johnson-Phillips,Retail
+M00144,"Wiley, Pittman and Rhodes",Gaming
+M00145,Roach-Garcia,Fashion
+M00146,Jordan PLC,Food
+M00147,"Spencer, Jackson and Jenkins",Retail
+M00148,Hill Inc,Food
+M00149,Jones-Simmons,Fashion
+M00150,Maldonado Ltd,Retail
+M00151,"Williams, Smith and Hughes",Food
+M00152,Gutierrez-Aguilar,Gaming
+M00153,Taylor-Gutierrez,Fashion
+M00154,Rodriguez and Sons,Electronics
+M00155,Brown-Whitaker,Gaming
+M00156,"Smith, Blackwell and Chapman",Retail
+M00157,Howell-Barrett,Food
+M00158,Harris and Sons,Electronics
+M00159,Conway Ltd,Gaming
+M00160,Simon-Hall,Food
+M00161,Pruitt-Scott,Retail
+M00162,Clark-Hicks,Food
+M00163,"Knapp, Taylor and Moore",Retail
+M00164,"Scott, Cross and Delgado",Electronics
+M00165,"Peterson, Williams and Livingston",Retail
+M00166,Martin-Camacho,Travel
+M00167,Watkins-Stanley,Electronics
+M00168,"Mosley, Johnson and Lamb",Gaming
+M00169,Armstrong-Combs,Food
+M00170,Garcia-Adams,Food
+M00171,"Maldonado, Mitchell and Stone",Food
+M00172,"Wilson, Jackson and Williams",Retail
+M00173,Robinson PLC,Retail
+M00174,"Dawson, Smith and Scott",Retail
+M00175,Ramirez LLC,Electronics
+M00176,Bolton Ltd,Retail
+M00177,Woods-Flowers,Retail
+M00178,"Stewart, Austin and Campbell",Fashion
+M00179,Sullivan and Sons,Travel
+M00180,Ward-Moyer,Gaming
+M00181,"Lee, Farmer and Flores",Fashion
+M00182,"Parker, Jacobs and Glass",Retail
+M00183,Quinn Inc,Retail
+M00184,"Adams, Austin and Lopez",Retail
+M00185,Gillespie and Sons,Electronics
+M00186,Bennett Ltd,Retail
+M00187,Juarez-Collins,Retail
+M00188,"Scott, Hawkins and Green",Gaming
+M00189,Murphy LLC,Fashion
+M00190,Clements-Johnson,Food
+M00191,"Hoffman, Rose and Green",Retail
+M00192,Johnson and Sons,Fashion
+M00193,Huff-Kelly,Food
+M00194,Mendoza and Sons,Food
+M00195,Werner-Martin,Food
+M00196,"Vaughn, Rodriguez and Long",Gaming
+M00197,Davis-Mendez,Retail
+M00198,Page-Mosley,Fashion
+M00199,"West, Andrews and Evans",Retail
+M00200,Stanley-Lee,Electronics
